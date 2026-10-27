@@ -27,6 +27,8 @@ Weblate 2026.11
 
 .. rubric:: Improvements
 
+* Added a contextual :ref:`Workspaces menu <workspaces>` for users with multiple relevant workspaces, and included watched multi-project workspaces in :guilabel:`My workspaces`.
+
 * Correct screenshot filename extensions during upgrades and :ref:`project backup import <projectbackup>` using validated image contents.
 
 * :ref:`Project backup restore <projectbackup>` validates stored parameter values and reports skipped unsupported version control and file format parameters.
