@@ -27,6 +27,8 @@ Weblate 2026.11
 
 .. rubric:: Improvements
 
+* :ref:`Screenshots <screenshots>` recognize image text in the background and cache results, with separate image text suggestions and source string search tabs.
+
 * Correct screenshot filename extensions during upgrades and :ref:`project backup import <projectbackup>` using validated image contents.
 
 * :ref:`Project backup restore <projectbackup>` validates stored parameter values and reports skipped unsupported version control and file format parameters.
